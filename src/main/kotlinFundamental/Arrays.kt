@@ -9,16 +9,4 @@ fun main() {
 
     intArray[2]= 11
     println(intArray[2])
-
-    /*
-    Kotlin juga memungkinkan kita untuk membuat Array dengan tipe data primitif dengan
-    memanfaatkan beberapa fungsi spesifik berikut:
-
-    intArrayOf() : IntArray
-    booleanArrayOf() : BooleanArray
-    charArrayOf() : CharArray
-    longArrayOf() : LongArray
-    shortArrayOf() : ShortArray
-    byteArrayOf() : ByteArray
-     */
 }
